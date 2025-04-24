@@ -46,4 +46,18 @@ Com base nos dados, recomendamos a venda da **Loja 4**, pois ela:
 - Está localizada em uma área com cobertura redundante;
 - Apesar da logística eficiente, não demonstra vantagem competitiva sustentável.
 
+  ---
+ ## 📂 Como clonar e rodar o projeto
+Para rodar este projeto localmente, siga os passos abaixo:
+```bash
+# Clone este repositório
+git clone https://github.com/leticiafer01/1-Projeto-DataSciense-Alura/blob/main/Notebook/AluraDataSciense.ipynb
+
+# Acesse a pasta do projeto
+cd notebook
+
+# Abra o arquivo no navegador
+```
+
+
 
