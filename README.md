@@ -51,7 +51,7 @@ Com base nos dados, recomendamos a venda da **Loja 4**, pois ela:
 Para rodar este projeto localmente, siga os passos abaixo:
 ```bash
 # Clone este repositório
-git clone https://github.com/leticiafer01/1-Projeto-DataSciense-Alura/blob/main/Notebook/AluraDataSciense.ipynb
+git clone https://github.com/leticiafer01/1-Projeto-DataSciense-Alura
 
 # Acesse a pasta do projeto
 cd notebook
